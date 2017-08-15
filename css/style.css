@@ -1,0 +1,193 @@
+body {
+	background-color: #000000;
+	margin:0;
+	padding:0;
+	font-family: ”Times New Roman”, Times, Georgia, serif;
+	background-image: url(pictures/461278.jpg);
+}
+
+#main {
+	background-color: #e1e1e1;
+	width: 900px;
+	margin: auto;
+	padding: 10px;
+	border: 1px solid black;
+	
+}
+
+#header {
+	background-color:#181616;
+	padding: 0;
+	height: 140px;
+	text-align:right;
+	width: auto;
+	margin: auto;
+}
+
+#main1 {
+	background-color:#e1e1e1;
+	width:650px;
+	height:auto;
+	float:right;
+	margin: 0;
+	padding: 10px;
+}
+
+#sidebar {
+	background-color:#FFFFFF;
+	color: #000000;
+	height:auto;
+	width:200px;
+	float: left;
+	padding: 10px;
+
+}
+#registracija {
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+	font-size: 18px;
+
+}
+
+.zelite {
+	background-color: #000000;
+}
+
+.reg {
+	background-image: url(calm-blue-striped-pattern.jpg);
+	padding: 0px;
+	text-align: left;
+	margin:0;
+	color: #000000;
+}
+
+#main2 {
+	background-color:#e1e1e1;
+	width: auto;
+	height: auto;
+	clear: both;
+	padding: 10px;
+}
+
+#footer {
+	border:1px solid black;
+	text-align:center;
+	padding:10px;
+	background-color: #000000;
+	clear: both;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#nextpage {
+	text-align: right;
+	width: 440px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #000000;
+	float: right;
+}
+
+#prethodna {
+	text-align: left;
+	width: 440px;
+	margin: auto;
+	float: left;
+	background-color: #000000;
+}
+
+p {
+	text-align: justify;
+	font-size: 14px;
+	font-family: verdana;
+}
+h1,h2,h3,h4,h5,h6 {
+	text-align: center;
+}
+img {
+		border: 1px solid black;
+}
+
+.slikaheader {
+	margin: 0;
+	float: left;
+}
+
+.imgprva {
+	float: left;
+	border: 1px solid black;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.slikadva {
+	float: right;
+	margin: 10px 0 10px 10px;
+}
+
+.buldog {
+	width: 180px;
+	margin: 10px 0 10px 0;
+	
+}
+
+.malibuldog {
+	float: right;
+	margin: 10px 0 10px 10px;
+}
+
+.sluh {
+	float :left;
+	margin: 0 10px 10px 0;
+}
+
+.razmnozavanje {
+	float: right;
+	margin: 10px 0 10px 10px;
+}
+
+.snazanpas {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a:link, a:visited {
+	display: inline-block;
+	padding:14px 20px;
+	text-align: center;
+	text-decoration: none;
+	color: #F0FFFC;
+	font-size: 20px;
+}
+
+a:hover, a:active {
+	background-color: #030505;
+	color: #F2FF00;
+	font-size: 20px;
+}
+
+.vucjak {
+	float: left;
+	margin: 10px 10px 10px 0;
+}
+
+.naslov {
+	color: #ffffff;
+	text-align: center;
+	font-size: 19px;
+	font-family: sans-serif;
+}
+.pocetak {
+	text-align: left;
+	width: 440px;
+	height: auto;
+	margin: auto;
+	float: left;
+	background-color: #000000;
+}
+
+
+
